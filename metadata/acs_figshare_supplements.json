@@ -1,0 +1,156 @@
+{
+  "R06": [],
+  "R09": [
+    {
+      "id": 3597348,
+      "doi": "10.1021/es025699i.s001",
+      "license": "CC BY-NC 4.0",
+      "files": [
+        {
+          "name": "es025699i_si_001.xls",
+          "size": 17920,
+          "url": "https://ndownloader.figshare.com/files/5685252",
+          "md5": "8da2a8d939fc0db15da2df36e410f87c"
+        }
+      ]
+    }
+  ],
+  "R10": [
+    {
+      "id": 3073492,
+      "doi": "10.1021/es0600577.s001",
+      "license": "CC BY-NC 4.0",
+      "files": [
+        {
+          "name": "es0600577_si_001.pdf",
+          "size": 58042,
+          "url": "https://ndownloader.figshare.com/files/4779271",
+          "md5": "26623b9b565db664c192335eb5d4abb8"
+        }
+      ]
+    }
+  ],
+  "R16": [
+    {
+      "id": 6845144,
+      "doi": "10.1021/acs.est.8b00919.s001",
+      "license": "CC BY-NC 4.0",
+      "files": [
+        {
+          "name": "es8b00919_si_001.pdf",
+          "size": 1239699,
+          "url": "https://ndownloader.figshare.com/files/12462164",
+          "md5": "58afff2c050ed3d6f20f92f4741b2b7b"
+        }
+      ]
+    }
+  ],
+  "R18": [],
+  "R19": [],
+  "R22": [
+    {
+      "id": 11224646,
+      "doi": "10.1021/acsearthspacechem.9b00278.s008",
+      "license": "CC BY-NC 4.0",
+      "files": [
+        {
+          "name": "sp9b00278_si_008.avi",
+          "size": 817604,
+          "url": "https://ndownloader.figshare.com/files/19818362",
+          "md5": "2f44981c1bed059f2a1da91682ff2bbd"
+        }
+      ]
+    },
+    {
+      "id": 11224634,
+      "doi": "10.1021/acsearthspacechem.9b00278.s005",
+      "license": "CC BY-NC 4.0",
+      "files": [
+        {
+          "name": "sp9b00278_si_005.avi",
+          "size": 1896276,
+          "url": "https://ndownloader.figshare.com/files/19818350",
+          "md5": "4bf0442635c43823e51251c4bdc64562"
+        }
+      ]
+    },
+    {
+      "id": 11224637,
+      "doi": "10.1021/acsearthspacechem.9b00278.s006",
+      "license": "CC BY-NC 4.0",
+      "files": [
+        {
+          "name": "sp9b00278_si_006.avi",
+          "size": 1201666,
+          "url": "https://ndownloader.figshare.com/files/19818353",
+          "md5": "d87662839696b9e6e48deda224e70106"
+        }
+      ]
+    },
+    {
+      "id": 11224640,
+      "doi": "10.1021/acsearthspacechem.9b00278.s007",
+      "license": "CC BY-NC 4.0",
+      "files": [
+        {
+          "name": "sp9b00278_si_007.avi",
+          "size": 832514,
+          "url": "https://ndownloader.figshare.com/files/19818356",
+          "md5": "546999cbf2b3ffefa7079dc95b3180e8"
+        }
+      ]
+    },
+    {
+      "id": 11224619,
+      "doi": "10.1021/acsearthspacechem.9b00278.s002",
+      "license": "CC BY-NC 4.0",
+      "files": [
+        {
+          "name": "sp9b00278_si_002.avi",
+          "size": 1501436,
+          "url": "https://ndownloader.figshare.com/files/19818335",
+          "md5": "8a75eb68b31a23255d5ba85528886a4e"
+        }
+      ]
+    },
+    {
+      "id": 11224625,
+      "doi": "10.1021/acsearthspacechem.9b00278.s003",
+      "license": "CC BY-NC 4.0",
+      "files": [
+        {
+          "name": "sp9b00278_si_003.avi",
+          "size": 1706984,
+          "url": "https://ndownloader.figshare.com/files/19818341",
+          "md5": "a92ae6ddef13916c638fd0f1c73bcc95"
+        }
+      ]
+    },
+    {
+      "id": 11224628,
+      "doi": "10.1021/acsearthspacechem.9b00278.s004",
+      "license": "CC BY-NC 4.0",
+      "files": [
+        {
+          "name": "sp9b00278_si_004.avi",
+          "size": 1846266,
+          "url": "https://ndownloader.figshare.com/files/19818344",
+          "md5": "504d2fc1f4d45a2a47ff7ee67f642ec2"
+        }
+      ]
+    },
+    {
+      "id": 11224616,
+      "doi": "10.1021/acsearthspacechem.9b00278.s001",
+      "license": "CC BY-NC 4.0",
+      "files": [
+        {
+          "name": "sp9b00278_si_001.pdf",
+          "size": 1975497,
+          "url": "https://ndownloader.figshare.com/files/19818332",
+          "md5": "0a37f75a2a5fb1399b645b46cba3e3f1"
+        }
+      ]
+    }
+  ]
+}

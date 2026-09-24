@@ -1,0 +1,72 @@
+relative_workbook_path,worksheet,reported_rows,reported_columns
+Modelling/CLT.xlsx,Parabolic diffn + Kd,303,17
+Modelling/CLT.xlsx,Parabolic diffn,303,17
+Modelling/CLT.xlsx,Elovich + kd,303,17
+Modelling/CLT.xlsx,Elovich,303,17
+Modelling/CLT.xlsx,Irrev. 1st ord. + kd,303,17
+Modelling/CLT.xlsx,Irrev. 1st ord.,303,17
+Modelling/CLT.xlsx,Reverse. 1st ord. + kd,303,17
+Modelling/CLT.xlsx,Reverse 1st ord.,303,17
+Modelling/Collective Modelling.xlsx,Elv-Kd parameters vs properties,144,38
+Modelling/Collective Modelling.xlsx,Variables A,57,50
+Modelling/Collective Modelling.xlsx,Variables B,57,50
+Modelling/Collective Modelling.xlsx,Variables C,57,50
+Modelling/Collective Modelling.xlsx,Variables E,89,50
+Modelling/PZS.xlsx,Parabolic diffn + Kd,303,17
+Modelling/PZS.xlsx,Parabolic diffn,303,17
+Modelling/PZS.xlsx,Elovich + kd,303,17
+Modelling/PZS.xlsx,Elovich,303,17
+Modelling/PZS.xlsx,Irrev. 1st ord. + kd,303,17
+Modelling/PZS.xlsx,Irrev. 1st ord.,303,17
+Modelling/PZS.xlsx,Reverse. 1st ord. + kd,303,17
+Modelling/PZS.xlsx,Reverse 1st ord.,303,17
+Modelling/PZT.xlsx,Parabolic diffn + Kd,303,17
+Modelling/PZT.xlsx,Parabolic diffn,303,17
+Modelling/PZT.xlsx,Elovich + kd,303,17
+Modelling/PZT.xlsx,Elovich,303,17
+Modelling/PZT.xlsx,Irrev. 1st ord. + kd,7741,17
+Modelling/PZT.xlsx,Irrev. 1st ord.,303,17
+Modelling/PZT.xlsx,Reverse. 1st ord. + kd,303,17
+Modelling/PZT.xlsx,Reverse 1st ord.,303,17
+Modelling/Predective Collective ElV-Kd.xlsx,TOC Effect,4004,56
+Modelling/Predective Collective ElV-Kd.xlsx,AL (OH)3 Effect,4004,54
+Modelling/Predective Collective ElV-Kd.xlsx,pH,4004,52
+Modelling/Predective Collective ElV-Kd.xlsx,MnO2,4004,53
+Modelling/RLT.xlsx,Parabolic diffn + Kd,303,17
+Modelling/RLT.xlsx,Parabolic diffn,303,17
+Modelling/RLT.xlsx,Elovich + kd,303,17
+Modelling/RLT.xlsx,Irrev. 1st ord. + kd,303,17
+Modelling/RLT.xlsx,Elovich,303,17
+Modelling/RLT.xlsx,Irrev. 1st ord.,301,17
+Modelling/RLT.xlsx,Reverse. 1st ord. + kd,303,17
+Modelling/RLT.xlsx,Reverse 1st ord.,303,17
+Modelling/SCS.xlsx,Parabolic diffn + Kd,303,17
+Modelling/SCS.xlsx,Parabolic diffn,303,17
+Modelling/SCS.xlsx,Elovich + kd,303,17
+Modelling/SCS.xlsx,Elovich,303,17
+Modelling/SCS.xlsx,Irrev. 1st ord. + kd,303,17
+Modelling/SCS.xlsx,Irrev. 1st ord.,303,17
+Modelling/SCS.xlsx,Reverse. 1st ord. + kd,303,17
+Modelling/SCS.xlsx,Reverse 1st ord.,303,17
+Modelling/SCT.xlsx,Parabolic diffn + Kd,303,17
+Modelling/SCT.xlsx,Parabolic diffn,303,17
+Modelling/SCT.xlsx,Elovich + kd,303,17
+Modelling/SCT.xlsx,Elovich,303,17
+Modelling/SCT.xlsx,Irrev. 1st ord. + kd,303,17
+Modelling/SCT.xlsx,Irrev. 1st ord.,303,17
+Modelling/SCT.xlsx,Reverse. 1st ord. + kd,303,17
+Modelling/SCT.xlsx,Reverse 1st ord.,303,17
+Results/Processed.xlsx,Soil Prop.,19,12
+Results/Processed.xlsx,Kinetics,1048576,45
+Results/Processed.xlsx,IFO,109,32
+Results/Processed.xlsx,Param Elv-Kd,144,38
+Results/Processed.xlsx,Param Sph Diff,105,49
+Results/Processed.xlsx,Model Parametres,47,8
+Results/Processed.xlsx,Models RSD,22,20
+Results/Processed.xlsx,Model Par for Word,47,8
+Results/Raw.xlsx,Raw,136,15
+Results/Raw.xlsx,Corrections,95,8
+Results/Raw.xlsx,Processed,95,11
+Results/Raw.xlsx,Final + Graphs,45,35
+Results/Raw.xlsx,Sheet1,84,9
+Results/Raw.xlsx,Sheet2,43,12

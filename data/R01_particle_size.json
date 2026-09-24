@@ -1,0 +1,7 @@
+{
+  "Dv10_um": 2.26,
+  "Dv50_um": 15.5,
+  "Dv90_um": 58.6,
+  "fraction_volume_under_10_1_um_approx": 0.41,
+  "source": "R01 NIST COA page 4, laser diffraction information, not a measured bed transport constant"
+}

@@ -1,0 +1,11 @@
+reaction_as_source,log10_K,reported_uncertainty,source_flag,source_location,notes
+Hg2+ + Cl- = HgCl+,7.31,0.04,R,R02 IUPAC Table 2 p743,formation
+Hg2+ + 2Cl- = HgCl2(aq),14.0,0.07,R,R02 IUPAC Table 2 p743,cumulative formation
+HgCl2(aq) + Cl- = HgCl3-,0.925,0.09,R,R02 IUPAC Table 2 p744,stepwise; cumulative from Hg2+ = 14.925
+HgCl3- + Cl- = HgCl4^2-,0.61,0.12,R,R02 IUPAC Table 2 p744,stepwise; cumulative from Hg2+ = 15.535
+Hg2+ + H2O = HgOH+ + H+,-3.4,0.08,R,R02 IUPAC Table 1 p743,water explicit
+Hg2+ + 2H2O = Hg(OH)2(aq) + 2H+,-5.98,0.06,R,R02 IUPAC Table 1 p743,water explicit
+Hg2+ + Cl- + H2O = HgOHCl(aq) + H+,4.27,0.35,P,R02 IUPAC Table 2 p744,provisional
+Hfo_sOH + H+ = Hfo_sOH2+,7.29,,database,R20 phreeqc.dat lines 1439-1440,Dzombak Morel 1990; strong HFO site
+Hfo_sOH = Hfo_sO- + H+,-8.93,,database,R20 phreeqc.dat lines 1442-1443,Dzombak Morel 1990; strong HFO site
+Hg(OH)2 + Citrate-3 + 2H+ = Hg(Citrate)- + 2H2O,18.3,,database,R14 minteq.v4.dat lines 6536-6537,MINTEQ reaction basis; do not mix with IUPAC without conversion

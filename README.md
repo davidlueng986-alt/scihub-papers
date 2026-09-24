@@ -1,42 +1,24 @@
-# scihub-papers
+# F1 baseline proposal／SOP v2.3：文獻與可用數據
 
-Reference papers for the mercury sorption SOP v2.3 (Refs R05-R26).
+本 repo 保存原有 15 篇 PDF，並加入已核對的表格 CSV、來源清單和用法說明。資料整理日期：2026-09-24。全文、第三方圖表與資料集各有原本的授權及引用條件；此 repo 沒有給它們重新授權。
 
-Downloaded 2026-09-24 via Sci-Hub, USGS Publications Warehouse, and archive.org.
-Files verified as valid PDFs.
+**此 repo 並非完整 170 MB 資料包。** `full_package_sources_manifest.csv` 和 `full_package_file_manifest.csv` 記錄整份離線資料包的來源與檔案校驗碼；當中的 `papers/`、`datasets/` 等路徑是資料包內的路徑，未必是這個 repo 的路徑。原有 PDF 仍在本 repo 根目錄。未放入 repo 的原始檔可由清單內的官方來源取得；詳細可用狀態見 [UNAVAILABLE.md](UNAVAILABLE.md)。
 
-| Ref | Paper | File | Source |
-| --- | --- | --- | --- |
-| R05 | Yin et al. 1996, *J. Environ. Qual.* 25, 837-844 — Adsorption of Mercury(II) by Soil | `R05_Yin_1996_Adsorption_Hg_soil.pdf` | Sci-Hub |
-| R07 | Shetaya et al. 2019, *Chemosphere* 221, 193-202 — Sorption kinetics of isotopically labelled divalent 196Hg2+ in soil | `R07_Shetaya_2019_Sorption_kinetics_196Hg_soil.pdf` | Sci-Hub |
-| R10 | Skyllberg et al. 2006, *ES&T* 40, 4174-4180 — Complexation of mercury(II) in soil organic matter (EXAFS) | `R10_Skyllberg_2006_Hg_complexation_SOM_EXAFS.pdf` | Sci-Hub |
-| R11 | Barrow & Cox 1992, *J. Soil Sci.* 43, 305-312 — Hg sorption II. By a soil | `R11_Barrow_Cox_1992_Hg_sorption_II_soil.pdf` | Sci-Hub |
-| R12 | Jing et al. 2007, *Chemosphere* 69, 1662-1669 — Hg desorption in soils | `R12_Jing_2007_Hg_desorption_soils.pdf` | Sci-Hub |
-| R13 | Zwietering 1958, *Chem. Eng. Sci.* 8, 244-253 — Suspending of solid particles in liquid by agitators | `R13_Zwietering_1958_Suspending_solids_agitators.pdf` | Sci-Hub |
-| R15 | Bloom et al. 2003, *Anal. Chim. Acta* 479, 233-248 — Selective extractions of inorganic Hg in sediments/soils | `R15_Bloom_2003_Selective_extractions_Hg.pdf` | Sci-Hub |
-| R16 | Song et al. 2018, *ES&T* 52, 8292-8301 — Thermodynamics of Hg(II) bonding to thiol groups in SRNOM | `R16_Song_2018_Thermodynamics_Hg_thiol_NOM.pdf` | Sci-Hub |
-| R17 | Ranz & Marshall 1952, *Chem. Eng. Prog.* 48, 141-146 & 173-180 — Evaporation from drops, Parts I & II | `R17_Ranz_Marshall_1952_Evaporation_drops_I_and_II.pdf` | archive.org (no DOI, not on Sci-Hub) |
-| R18 | Haitzer et al. 2003, *ES&T* 37, 2436-2441 — Binding of Hg(II) to aquatic humic substances | `R18_Haitzer_2003_Hg_binding_humic.pdf` | Sci-Hub |
-| R19 | Milne et al. 2001, *ES&T* 35, 2049-2059 — Generic NICA-Donnan model parameters | `R19_Milne_2001_NICA_Donnan_parameters.pdf` | Sci-Hub |
-| R22 | Manceau & Nagy 2019, *ACS Earth Space Chem.* 3, 2795-2807 — Thiols in NOM: forms, acidity, reactivity with Hg(II) | `R22_Manceau_Nagy_2019_Thiols_NOM_Hg.pdf` | Sci-Hub |
-| R23 | USGS NFM Section 6.6 — Alkalinity and Acid Neutralizing Capacity (v3, rev. Jul 2006) | `R23_USGS_NFM_6.6_Alkalinity_ANC.pdf` | pubs.usgs.gov |
-| R24 | Boudreau 1996, *GCA* 60, 3139-3142 — Diffusive tortuosity of fine-grained sediments | `R24_Boudreau_1996_Diffusive_tortuosity.pdf` | Sci-Hub |
-| R26 | Barrow & Cox 1992, *J. Soil Sci.* 43, 295-304 — Hg sorption I. By goethite | `R26_Barrow_Cox_1992_Hg_sorption_I_goethite.pdf` | Sci-Hub |
+## 可以直接閱讀和分析
 
-## DOIs
+| 內容 | 檔案 | 核心注意事項 |
+| --- | --- | --- |
+| NIST SRM 2711a 元素及粒度 | [元素 CSV](data/R01_NIST_2711a_element_values.csv)、[粒度 JSON](data/R01_particle_size.json) | NIST 總汞含量不能代替 SOP 的萃取回收率；[證書原文](https://tsapps.nist.gov/srmext/certificates/2711a.pdf)。 |
+| R05 Yin et al. 1996 土壤表 1 | [CSV](data/R05_Yin_1996_Table1_soil_characteristics.csv) | 15 種其他土壤；第 4 種的原刊粒度相加是 1020 g/kg，原數照錄並標記。[論文 PDF](R05_Yin_1996_Adsorption_Hg_soil.pdf)。 |
+| R06 Yin et al. 1997 表 1–3 | [土壤](data/R06_Yin_1997_Table1_selected_soils.csv)、[動力學擬合](data/R06_Yin_1997_Table2_kinetic_parameters.csv)、[OC 回歸](data/R06_Yin_1997_Table3_OC_regressions.csv) | 表 1／表 2 的土壤編號不同，不能直接按數字合併；擬合參數不是原始時間點。[作者提供論文](https://www1.udel.edu/soilchem/yinest97.pdf)。 |
+| R11 Barrow／Cox 1992 | [實驗條件及圖形索引](data/R05_R06_R11_external_data_guide.md) | [原文 PDF](R11_Barrow_Cox_1992_Hg_sorption_II_soil.pdf) 有原圖，但圖 2 仍待附誤差的逐點讀圖；無作者逐點 CSV。 |
+| R08 Shetaya et al. 2019 | [資料指南](data/R08_Shetaya_data_guide.md)、[工作表索引](data/R08_workbook_index.csv) | [原版資料集](https://doi.org/10.17632/xw2kr7ykhd.1) 含 10 個 XLSX；實驗條件有別於本 SOP。 |
+| 其他參數 | [熱力學來源表](data/thermodynamic_source_ledger.csv)、[IHSS 方法筆記](data/R21_IHSS_method_note.md) | 核對反應方向、標準態與試驗條件後方可轉用。 |
 
-| Ref | DOI |
-| --- | --- |
-| R05 | 10.2134/jeq1996.00472425002500040027x |
-| R07 | 10.1016/j.chemosphere.2019.01.034 |
-| R10 | 10.1021/es0600577 |
-| R11 | 10.1111/j.1365-2389.1992.tb00138.x |
-| R12 | 10.1016/j.chemosphere.2007.05.033 |
-| R13 | 10.1016/0009-2509(58)85031-9 |
-| R15 | 10.1016/S0003-2670(02)01550-7 |
-| R16 | 10.1021/acs.est.8b00919 |
-| R18 | 10.1021/es026291o |
-| R19 | 10.1021/es000123j |
-| R22 | 10.1021/acsearthspacechem.9b00278 |
-| R24 | 10.1016/0016-7037(96)00158-5 |
-| R26 | 10.1111/j.1365-2389.1992.tb00137.x |
+R05／R06／R11 的頁碼、原單位和方法見 [數據說明](data/R05_R06_R11_external_data_guide.md)。`metadata/` 保留原有 PDF 的核對表、資料集及補充材料來源。
+
+## 原有 PDF 的版本提示
+
+- [R17 Ranz／Marshall](R17_Ranz_Marshall_1952_Evaporation_drops_I_and_II.pdf) 是 **2024 年重新排版的 Part I／II 全文**，不是 1952 年 *Chemical Engineering Progress* 的原刊掃描本。原刊掃描本未找到，毋須當作模型的前置條件。
+- [R23 USGS NFM 6.6](R23_USGS_NFM_6.6_Alkalinity_ANC.pdf) 的內頁是 **2012 年 v4.0**，先前 README 寫的 2006 年 v3 不適用於這份 PDF。
+- 本 SOP 專屬的 SRM 2711a 汞萃取等實測數據尚未產生；它們不是「文獻無法下載」。

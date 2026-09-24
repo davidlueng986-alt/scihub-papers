@@ -1,0 +1,46 @@
+element,value_status,value,unit,expanded_uncertainty_U,coverage_factor_k,certificate_page,source,interpretation
+Al,certified,6.72,%,0.06,2.10,3,R01 NIST SRM 2711a COA 2026-01-14,"total dry-mass fraction; expanded uncertainty U, not standard u"
+Ca,certified,2.42,%,0.06,2.10,3,R01 NIST SRM 2711a COA 2026-01-14,"total dry-mass fraction; expanded uncertainty U, not standard u"
+Fe,certified,2.82,%,0.04,2.36,3,R01 NIST SRM 2711a COA 2026-01-14,"total dry-mass fraction; expanded uncertainty U, not standard u"
+Pb,certified,0.140,%,0.001,2,3,R01 NIST SRM 2711a COA 2026-01-14,"total dry-mass fraction; expanded uncertainty U, not standard u"
+Mg,certified,1.07,%,0.06,2.23,3,R01 NIST SRM 2711a COA 2026-01-14,"total dry-mass fraction; expanded uncertainty U, not standard u"
+K,certified,2.53,%,0.10,2.36,3,R01 NIST SRM 2711a COA 2026-01-14,"total dry-mass fraction; expanded uncertainty U, not standard u"
+Si,certified,31.4,%,0.7,2.57,3,R01 NIST SRM 2711a COA 2026-01-14,"total dry-mass fraction; expanded uncertainty U, not standard u"
+Na,certified,1.20,%,0.01,2.07,3,R01 NIST SRM 2711a COA 2026-01-14,"total dry-mass fraction; expanded uncertainty U, not standard u"
+Ti,certified,0.317,%,0.008,2.26,3,R01 NIST SRM 2711a COA 2026-01-14,"total dry-mass fraction; expanded uncertainty U, not standard u"
+Sb,certified,23.8,mg/kg,1.4,2.06,3,R01 NIST SRM 2711a COA 2026-01-14,"total dry-mass fraction; expanded uncertainty U, not standard u"
+As,certified,107,mg/kg,5,2.18,3,R01 NIST SRM 2711a COA 2026-01-14,"total dry-mass fraction; expanded uncertainty U, not standard u"
+Ba,certified,730,mg/kg,15,2.26,3,R01 NIST SRM 2711a COA 2026-01-14,"total dry-mass fraction; expanded uncertainty U, not standard u"
+Cd,certified,54.1,mg/kg,0.5,2,3,R01 NIST SRM 2711a COA 2026-01-14,"total dry-mass fraction; expanded uncertainty U, not standard u"
+Cr,certified,52.3,mg/kg,2.9,2.31,3,R01 NIST SRM 2711a COA 2026-01-14,"total dry-mass fraction; expanded uncertainty U, not standard u"
+Co,certified,9.89,mg/kg,0.18,2.07,3,R01 NIST SRM 2711a COA 2026-01-14,"total dry-mass fraction; expanded uncertainty U, not standard u"
+Cu,certified,140,mg/kg,2,2.09,3,R01 NIST SRM 2711a COA 2026-01-14,"total dry-mass fraction; expanded uncertainty U, not standard u"
+Mn,certified,675,mg/kg,18,2.06,3,R01 NIST SRM 2711a COA 2026-01-14,"total dry-mass fraction; expanded uncertainty U, not standard u"
+Hg,certified,7.42,mg/kg,0.18,2,3,R01 NIST SRM 2711a COA 2026-01-14,"total dry-mass fraction; expanded uncertainty U, not standard u"
+Ni,certified,21.7,mg/kg,0.7,2.16,3,R01 NIST SRM 2711a COA 2026-01-14,"total dry-mass fraction; expanded uncertainty U, not standard u"
+P,certified,842,mg/kg,11,2.09,3,R01 NIST SRM 2711a COA 2026-01-14,"total dry-mass fraction; expanded uncertainty U, not standard u"
+Sm,certified,5.93,mg/kg,0.28,2.78,3,R01 NIST SRM 2711a COA 2026-01-14,"total dry-mass fraction; expanded uncertainty U, not standard u"
+Sr,certified,242,mg/kg,10,2.45,3,R01 NIST SRM 2711a COA 2026-01-14,"total dry-mass fraction; expanded uncertainty U, not standard u"
+U,certified,3.01,mg/kg,0.12,2.10,3,R01 NIST SRM 2711a COA 2026-01-14,"total dry-mass fraction; expanded uncertainty U, not standard u"
+V,certified,80.7,mg/kg,5.7,2.18,3,R01 NIST SRM 2711a COA 2026-01-14,"total dry-mass fraction; expanded uncertainty U, not standard u"
+Zn,certified,414,mg/kg,11,2.05,3,R01 NIST SRM 2711a COA 2026-01-14,"total dry-mass fraction; expanded uncertainty U, not standard u"
+Cs,reference,6.7,mg/kg,0.2,2,3,R01 NIST SRM 2711a COA 2026-01-14,"total dry-mass fraction; expanded uncertainty U, not standard u"
+Eu,reference,1.1,mg/kg,0.2,2,3,R01 NIST SRM 2711a COA 2026-01-14,"total dry-mass fraction; expanded uncertainty U, not standard u"
+Hf,reference,9.2,mg/kg,0.2,2,3,R01 NIST SRM 2711a COA 2026-01-14,"total dry-mass fraction; expanded uncertainty U, not standard u"
+La,reference,38,mg/kg,1,2,3,R01 NIST SRM 2711a COA 2026-01-14,"total dry-mass fraction; expanded uncertainty U, not standard u"
+Nd,reference,29,mg/kg,2,2,3,R01 NIST SRM 2711a COA 2026-01-14,"total dry-mass fraction; expanded uncertainty U, not standard u"
+Rb,reference,120,mg/kg,3,2,3,R01 NIST SRM 2711a COA 2026-01-14,"total dry-mass fraction; expanded uncertainty U, not standard u"
+Sc,reference,8.5,mg/kg,0.1,2,3,R01 NIST SRM 2711a COA 2026-01-14,"total dry-mass fraction; expanded uncertainty U, not standard u"
+Th,reference,15,mg/kg,1,2,3,R01 NIST SRM 2711a COA 2026-01-14,"total dry-mass fraction; expanded uncertainty U, not standard u"
+B,information,50,mg/kg,,,4,R01 NIST SRM 2711a COA 2026-01-14,information value; no certified uncertainty
+Ce,information,70,mg/kg,,,4,R01 NIST SRM 2711a COA 2026-01-14,information value; no certified uncertainty
+Dy,information,5,mg/kg,,,4,R01 NIST SRM 2711a COA 2026-01-14,information value; no certified uncertainty
+Gd,information,5,mg/kg,,,4,R01 NIST SRM 2711a COA 2026-01-14,information value; no certified uncertainty
+In,information,1,mg/kg,,,4,R01 NIST SRM 2711a COA 2026-01-14,information value; no certified uncertainty
+Lu,information,0.5,mg/kg,,,4,R01 NIST SRM 2711a COA 2026-01-14,information value; no certified uncertainty
+Se,information,2,mg/kg,,,4,R01 NIST SRM 2711a COA 2026-01-14,information value; no certified uncertainty
+Ag,information,6,mg/kg,,,4,R01 NIST SRM 2711a COA 2026-01-14,information value; no certified uncertainty
+Ta,information,1,mg/kg,,,4,R01 NIST SRM 2711a COA 2026-01-14,information value; no certified uncertainty
+Tb,information,0.8,mg/kg,,,4,R01 NIST SRM 2711a COA 2026-01-14,information value; no certified uncertainty
+Tl,information,3,mg/kg,,,4,R01 NIST SRM 2711a COA 2026-01-14,information value; no certified uncertainty
+Yb,information,3,mg/kg,,,4,R01 NIST SRM 2711a COA 2026-01-14,information value; no certified uncertainty

@@ -1,0 +1,101 @@
+[
+  {
+    "ref": "R09",
+    "file": "F1_Literature_Data_v2_3/supplements/R09/es025699i_si_001.xls",
+    "url": "https://ndownloader.figshare.com/files/5685252",
+    "status": "verified",
+    "bytes": 17920,
+    "sha256": "41bfdab68d4d5a079dfafc1008ac62e4c688416055c8eac748a461fa24ab1af8",
+    "license": "CC BY-NC 4.0"
+  },
+  {
+    "ref": "R10",
+    "file": "F1_Literature_Data_v2_3/supplements/R10/es0600577_si_001.pdf",
+    "url": "https://ndownloader.figshare.com/files/4779271",
+    "status": "verified",
+    "bytes": 58042,
+    "sha256": "d24488b2687826619b40d695dc281508b87ca43b643f09533e423118c6177c09",
+    "license": "CC BY-NC 4.0"
+  },
+  {
+    "ref": "R16",
+    "file": "F1_Literature_Data_v2_3/supplements/R16/es8b00919_si_001.pdf",
+    "url": "https://ndownloader.figshare.com/files/12462164",
+    "status": "verified",
+    "bytes": 1239699,
+    "sha256": "d09be9231f9728055e8c82af1062fff803a371e154c65a6539bdb08ebe6263d6",
+    "license": "CC BY-NC 4.0"
+  },
+  {
+    "ref": "R22",
+    "file": "F1_Literature_Data_v2_3/supplements/R22/sp9b00278_si_008.avi",
+    "url": "https://ndownloader.figshare.com/files/19818362",
+    "status": "verified",
+    "bytes": 817604,
+    "sha256": "575e9441dcd75ef898a89d2cf77302b4f48cdd29d531d414ec9cf2b4fd7322a0",
+    "license": "CC BY-NC 4.0"
+  },
+  {
+    "ref": "R22",
+    "file": "F1_Literature_Data_v2_3/supplements/R22/sp9b00278_si_005.avi",
+    "url": "https://ndownloader.figshare.com/files/19818350",
+    "status": "verified",
+    "bytes": 1896276,
+    "sha256": "8ee8c690c01b4b55465514deebd1dd85093f4667232ff9befef98096fb6ff909",
+    "license": "CC BY-NC 4.0"
+  },
+  {
+    "ref": "R22",
+    "file": "F1_Literature_Data_v2_3/supplements/R22/sp9b00278_si_006.avi",
+    "url": "https://ndownloader.figshare.com/files/19818353",
+    "status": "verified",
+    "bytes": 1201666,
+    "sha256": "8996f2b7a40188bb0225ba436d42c5dd3b6ac792cd98eb7bd4d31c9d12f892d2",
+    "license": "CC BY-NC 4.0"
+  },
+  {
+    "ref": "R22",
+    "file": "F1_Literature_Data_v2_3/supplements/R22/sp9b00278_si_007.avi",
+    "url": "https://ndownloader.figshare.com/files/19818356",
+    "status": "verified",
+    "bytes": 832514,
+    "sha256": "f61254705ccc204b59292fb369efc277381a205dead401a88f5e98ddfcefbd3b",
+    "license": "CC BY-NC 4.0"
+  },
+  {
+    "ref": "R22",
+    "file": "F1_Literature_Data_v2_3/supplements/R22/sp9b00278_si_002.avi",
+    "url": "https://ndownloader.figshare.com/files/19818335",
+    "status": "verified",
+    "bytes": 1501436,
+    "sha256": "cd6c434890d578b472661ff35083ba91e024d025f0f9be5b11e5cc0fff6ca7d8",
+    "license": "CC BY-NC 4.0"
+  },
+  {
+    "ref": "R22",
+    "file": "F1_Literature_Data_v2_3/supplements/R22/sp9b00278_si_003.avi",
+    "url": "https://ndownloader.figshare.com/files/19818341",
+    "status": "verified",
+    "bytes": 1706984,
+    "sha256": "0e578a73df5e78a15d3848ff76ddbd5644621e004f5bb7b5979ae1a79b6c6c8d",
+    "license": "CC BY-NC 4.0"
+  },
+  {
+    "ref": "R22",
+    "file": "F1_Literature_Data_v2_3/supplements/R22/sp9b00278_si_004.avi",
+    "url": "https://ndownloader.figshare.com/files/19818344",
+    "status": "verified",
+    "bytes": 1846266,
+    "sha256": "1a0ffc38b9d8ca463db2f9547b07b61460d838f27c7135391dbfbf40035dfb65",
+    "license": "CC BY-NC 4.0"
+  },
+  {
+    "ref": "R22",
+    "file": "F1_Literature_Data_v2_3/supplements/R22/sp9b00278_si_001.pdf",
+    "url": "https://ndownloader.figshare.com/files/19818332",
+    "status": "verified",
+    "bytes": 1975497,
+    "sha256": "68b465383e3945d26508aed5e330f5267f3f0efae365164d2342182ec653a31d",
+    "license": "CC BY-NC 4.0"
+  }
+]
